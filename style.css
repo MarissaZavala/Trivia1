@@ -1,0 +1,46 @@
+body {
+  background-color:black;
+  background-image:url(https://i.ibb.co/QFCKCWJ/stars-tumblr-olucp2-SNGx1vsjcxvo1-r1-640.gif);
+  color: yellow;
+  font-size: 20px;
+  font-weight: bolder;
+  font-family: "Arial", sans serif;
+  
+}
+
+#container{
+  background-color: black;
+  color: yellow;
+  font-size: 15px;
+  font-weight: normal ;
+  font-family: "Arial" sans serif;
+  display: none;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  
+  
+}
+
+#button1{
+background-color: yellow;
+  color: black;
+  font-size: 18px;
+  padding: 5px;
+  
+}
+#button2{
+  background-color: yellow;
+  color: black;
+  font-size: 18px;
+  padding: 5px;
+}
+/*#score1{
+  background-color: black;
+  color: yellow;
+  font-size: 15px;
+  font-weight: normal ;
+  font-family: "Arial" sans serif;
+    display: none;
+}*/
